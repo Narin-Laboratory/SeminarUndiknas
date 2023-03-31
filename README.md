@@ -1,4 +1,4 @@
-# Materi untuk Seminar Undiknas
+# Materi Seminar Undiknas
 ## Pelaksanaan: Undiknas University, Jumat, 17 Maret 2023 
 
 Repositori ini berisi file presentasi serta beberapa video yang terdapat di dalam presentasi.
