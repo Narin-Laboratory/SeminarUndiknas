@@ -1,3 +1,3 @@
 # Materi untuk Seminar Undiknas
-## Hari/Tanggal: Undiknas, Jumat, 17 Maret 2023 
+## Pelaksanaan: Undiknas University, Jumat, 17 Maret 2023 
 
