@@ -1,6 +1,6 @@
 ### Terdapat dua demo dalam folder ini:
 #### 1. Klasifikasi buah menggunakan KNN pada Arduino
-Demo ini menggunakan papan mikrokontroler Raspberry Pi Pico. Tempatkan sebuah pushbutton pada GP21 dan GND, tanpa perlu menambahkan resistor. Kita akan mengaktifkan model pull-up dalam program.
+Demo ini menggunakan papan mikrokontroler Raspberry Pi Pico. Tempatkan sebuah pushbutton pada GP21 dan GND, tanpa perlu menambahkan resistor. Kita akan mengaktifkan mode input pull-up dalam program.
 Pasang sensor warna ke mikrokontroler. Saat ini saya menggunakan TCS34725. Hubungkan pin SDA sensor ke GP4, dan pin SCL sensor ke GP5 pada Pico. Hubungkan pin 3V3 sensor dengan 3V3 (OUT) pada pico. Terakhir, hubungkan GND sensor dengan GND Pico.
 
 Setelah komponen terpasang, unggah program <b>Fruits_classification_using_color_sensor_COLLECT_DATA.ino</b> ke Pico. Siapkan beberapa jenis buah yang berbeda (kalau bisa, memiliki perbedaan setiap buah memiliki perbedaan warna yang mencolok). Saat ini saya menggunakan 3 jenis buah, yaitu Apel, Lemon, dan Alpukat. Anda bisa mengganti dengan jenis yang lain. Editlah jumlah class dalam program sesuai dengan jumlah buah yang ingin diklasifikasikan.
